@@ -32,14 +32,13 @@ The dataset contains supply chain related information such as:
 * Shipping information
 * Customer locations
 
-Note:
-Due to GitHub file size limitations, a **sample version of the dataset (reduced rows)** is included in this repository. The analysis and dashboards were originally created using the complete dataset.
+> Note: Due to GitHub file size limitations, a **sample version of the dataset (reduced rows)** is included in this repository. The analysis and dashboards were originally created using the complete dataset.
 
 ---
 
 ## Excel Sales Analysis
 
-File: `sales_analysis.xlsx`
+**File:** `sales_analysis.xlsx`
 
 This file includes:
 
@@ -47,8 +46,7 @@ This file includes:
 * Pivot charts for visualizing sales trends
 * An Excel dashboard to explore sales data interactively
 
-Key analysis includes:
-
+### Key analysis includes:
 * Sales by category
 * Sales by region
 * Sales performance trends
@@ -57,7 +55,7 @@ Key analysis includes:
 
 ## Excel Profit Analysis
 
-File: `profit_analysis.xlsx`
+**File:** `profit_analysis.xlsx`
 
 This file includes:
 
@@ -65,8 +63,7 @@ This file includes:
 * Pivot chart visualizations
 * An Excel dashboard highlighting profit insights
 
-Key analysis includes:
-
+### Key analysis includes:
 * Profit by product category
 * Regional profit performance
 * Profit trends across different segments
@@ -75,7 +72,7 @@ Key analysis includes:
 
 ## SQL Data Analysis
 
-File: `supply_chain_analysis.sql`
+**File:** `supply_chain_analysis.sql`
 
 SQL queries were used to perform data exploration and analysis including:
 
@@ -91,7 +88,7 @@ This demonstrates practical use of SQL for **business data analysis**.
 
 ## Power BI Dashboard
 
-File: `Supply_Chain_Analysis.pbix`
+**File:** `Supply_Chain_Analysis.pbix`
 
 The Power BI dashboard provides interactive insights including:
 
@@ -107,7 +104,7 @@ Users can interact with filters and visuals to explore the data dynamically.
 
 ## DAX Measures Documentation
 
-File: `powerbi_dax_measures_supply_chain.xlsx`
+**File:** `powerbi_dax_measures_supply_chain.xlsx`
 
 This file documents the **DAX measures used in the Power BI dashboard**, helping to understand the calculations behind the metrics such as:
 
@@ -115,6 +112,18 @@ This file documents the **DAX measures used in the Power BI dashboard**, helping
 * Total Profit
 * Profit Margin
 * Other analytical measures used in the dashboard
+
+---
+
+## Dashboard Preview
+
+### Profitability Insights Dashboard
+![Profitability Insights Dashboard](supply chain profitable insight.png)
+
+### Sales & Logistics Insights Dashboard
+![Sales & Logistics Insights Dashboard](Supply chain sales & logistic insight.png)
+
+> Note: The complete interactive dashboard can be opened using the `Supply_Chain_Analysis.pbix` file in Power BI Desktop.
 
 ---
 
@@ -136,6 +145,19 @@ Some insights discovered during the analysis include:
 3. Review the **Excel analysis files** to understand pivot table based dashboards.
 4. Check the **SQL file** to see the queries used for data analysis.
 5. Refer to the **DAX documentation file** to understand the calculations used in Power BI.
+
+---
+
+## Skills Demonstrated
+
+* SQL Query Writing
+* Excel Dashboarding
+* Pivot Tables & Pivot Charts
+* Power BI Dashboard Development
+* DAX Measures
+* Data Visualization
+* Business Insight Generation
+* Analytical Reporting
 
 ---
 
