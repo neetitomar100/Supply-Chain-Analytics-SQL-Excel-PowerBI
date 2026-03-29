@@ -115,12 +115,20 @@ This file documents the **DAX measures used in the Power BI dashboard**, helping
 
 ---
 
-## Dashboard Preview
+## Dashboard Screenshots
 
-### Profitability Insights Dashboard
+To provide a quick visual overview of the project, Power BI dashboard screenshots have been included below. These screenshots highlight the key analytical pages created as part of this project.
+
+### 1. Profitability Insights Dashboard
+This dashboard focuses on **profit-related KPIs**, category-level profitability, and business performance trends.
+
 ![Profitability Insights Dashboard](supply chain profitable insight.png)
 
-### Sales & Logistics Insights Dashboard
+---
+
+### 2. Sales & Logistics Insights Dashboard
+This dashboard highlights **sales performance, logistics-related insights, and operational trends** across the supply chain data.
+
 ![Sales & Logistics Insights Dashboard](Supply chain sales & logistic insight.png)
 
 > Note: The complete interactive dashboard can be opened using the `Supply_Chain_Analysis.pbix` file in Power BI Desktop.
@@ -145,6 +153,7 @@ Some insights discovered during the analysis include:
 3. Review the **Excel analysis files** to understand pivot table based dashboards.
 4. Check the **SQL file** to see the queries used for data analysis.
 5. Refer to the **DAX documentation file** to understand the calculations used in Power BI.
+6. Review the **dashboard screenshots** included in this README for a quick visual summary of the project.
 
 ---
 
